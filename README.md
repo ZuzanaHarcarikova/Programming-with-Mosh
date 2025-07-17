@@ -4,7 +4,9 @@ Learn SQL – Complete SQL Course from Beginner to Pro by Programming with Mosh
 
  
 The SELECT, WHERE Clause
+
 The AND, OR, NOT, IN, BETWEEN Operator, LIKE Operator
+
 The REGEXP Operator
 The IS NULL Operator
 The ORDER BY Operator
