@@ -1,4 +1,5 @@
 # Programming-with-Mosh
+
 Learn SQL – Complete SQL Course from Beginner to Pro by Programming with Mosh
 
 YouTube course included: 
@@ -19,3 +20,6 @@ YouTube course included:
 15. Using Subqueries in Updates 
 16. Deleting Rows
 17. Restoring Course Databases
+
+I am currently working on completing the whole course with a Certificate.
+Source: https://codewithmosh.com/p/complete-sql-mastery
